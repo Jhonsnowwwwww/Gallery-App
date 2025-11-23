@@ -70,16 +70,4 @@ Gallery-App/
 
 Feel free to open issues or submit pull requests. Small, focused PRs with a short description are easiest to review.
 
-## License
 
-Add your preferred license (e.g. MIT) or remove this section if not applicable.
-
----
-
-If you'd like, I can:
-
-- Add a short usage section showing how to add images to the gallery
-- Add a Tailwind configuration file and basic utilities
-- Convert components to TypeScript
-
-Tell me which of those you'd like next.
